@@ -1,7 +1,17 @@
 # taku629
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&width=540&lines=AI+agent+%26+tool+builder;Hackathon+regular;Kaggle+silver+medalist;Competitive+programmer" alt="Typing SVG" /></a>
+
 Student engineer building AI agents and practical tools.
 I prototype at hackathons, compete on Kaggle, and do competitive programming.
+
+## Highlights
+
+- **Kaggle — Silver medal**: 80th / 3,947 teams, [BioHub: Cell Tracking During Development](https://www.kaggle.com/competitions/biohub-cell-tracking-during-development)
+- **AtCoder** — [thatat](https://atcoder.jp/users/thatat), rating 1436
+- **Hackathons** — [Qloo Agentic Hackathon](https://github.com/taku629/opening-act) · [2026 Shenzhen FinTechathon (Topic E)](https://github.com/taku629/ledgerpilot) · [AMD AI League](https://github.com/taku629/amd-ai-league-mc3-rag) · [Agenthon 2026](https://github.com/taku629/agenthon2026-t2-iput)
+
+<img src="https://atcoder-trophies.vercel.app/api/v1/atcoder?username=thatat" alt="AtCoder Trophies" />
 
 ## Featured Projects
 
@@ -36,4 +46,5 @@ I prototype at hackathons, compete on Kaggle, and do competitive programming.
 
 - GitHub: [@taku629](https://github.com/taku629)
 - Kaggle: [@takumuhata](https://www.kaggle.com/takumuhata)
+- AtCoder: [thatat](https://atcoder.jp/users/thatat)
 - Zenn: [@taku629](https://zenn.dev/taku629)
