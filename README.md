@@ -1,20 +1,20 @@
 # taku629
 
-AIエージェントと実用ツールを作るのが好きな学生エンジニア。
-ハッカソンでプロトタイプを量産しつつ、競技プログラミングもやっています。
+Student engineer building AI agents and practical tools.
+I prototype at hackathons, compete on Kaggle, and do competitive programming.
 
 ## Featured Projects
 
 | Project | Description |
 |---------|-------------|
-| [whiteboard2repo](https://github.com/taku629/whiteboard2repo) | ホワイトボードの構成図を撮ると、動作確認済みの FastAPI + docker-compose リポジトリを生成 (Meta SAM 3.1 + Muse Spark Open) |
-| [agent-remote](https://github.com/taku629/agent-remote) | AIエージェントのリモコン。危険なツール呼び出しをLLMが平易に説明し、スマホから承認/拒否/キル |
-| [deadlinepilot](https://github.com/taku629/deadlinepilot) | 後から延長・変更される締切を見張る、学生向け締切管理エージェント (Google ADK + Gemini + Cloud Run) |
-| [mcpay](https://github.com/taku629/mcpay) | MCPサーバー向けドロップイン収益化。Stripe決済・メータリング・ダッシュボード |
-| [backtest-auditor](https://github.com/taku629/backtest-auditor) | LLMエージェントがバックテストを書き、決定的テストが正直さを検証 (Nemotron on Nebius) |
-| [directory-management](https://github.com/taku629/directory-management) | Sift — タグ付け・全文検索・自動整理・重複検出・AI分類のローカルファイル管理 (Tauri 2 + React, <10MB) |
-| [ear-proof-of-score](https://github.com/taku629/ear-proof-of-score) | 最適化エージェント向けの信頼最小化 NEAR testnet バウンティマーケット |
-| [review-loop](https://github.com/taku629/review-loop) | 競プロ復習コーチ。AtCoder / Codeforces / yukicoder / LeetCode / AOJ を間隔反復で |
+| [whiteboard2repo](https://github.com/taku629/whiteboard2repo) | Snap a whiteboard architecture sketch → get a running, tested FastAPI + docker-compose repo (Meta SAM 3.1 + Muse Spark Open) |
+| [agent-remote](https://github.com/taku629/agent-remote) | A remote control for AI agents: intercepts risky tool calls, explains them in plain language, and lets you approve/deny/kill from your phone |
+| [deadlinepilot](https://github.com/taku629/deadlinepilot) | Deadline management agent for students that watches for deadlines that get extended or changed after the fact (Google ADK + Gemini + Cloud Run) |
+| [mcpay](https://github.com/taku629/mcpay) | Drop-in monetization for MCP servers — Stripe-backed billing, metering, and dashboards |
+| [backtest-auditor](https://github.com/taku629/backtest-auditor) | LLM agents write the backtest; deterministic tests decide if it's honest (Nemotron on Nebius Token Factory) |
+| [directory-management](https://github.com/taku629/directory-management) | Sift — local file/folder manager: tagging, full-text search, auto-organize rules, duplicate detection, AI classification (Tauri 2 + React, <10MB) |
+| [ear-proof-of-score](https://github.com/taku629/ear-proof-of-score) | A trust-minimized NEAR testnet bounty market for optimization agents |
+| [review-loop](https://github.com/taku629/review-loop) | Spaced-repetition review coach for competitive programmers across AtCoder, Codeforces, yukicoder, LeetCode, AOJ |
 
 ## Tech Stack
 
@@ -34,5 +34,6 @@ AIエージェントと実用ツールを作るのが好きな学生エンジニ
 
 ## Links
 
-- Zenn: [@taku629](https://zenn.dev/taku629)
 - GitHub: [@taku629](https://github.com/taku629)
+- Kaggle: [@takumuhata](https://www.kaggle.com/takumuhata)
+- Zenn: [@taku629](https://zenn.dev/taku629)
