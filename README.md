@@ -42,6 +42,12 @@ I prototype at hackathons, compete on Kaggle, and do competitive programming.
 <img src="https://github-readme-stats.vercel.app/api?username=taku629&show_icons=true&theme=default" height="160" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taku629&layout=compact" height="160" alt="Top Languages" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taku629/taku629/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/taku629/taku629/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/taku629/taku629/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ## Links
 
 - GitHub: [@taku629](https://github.com/taku629)
